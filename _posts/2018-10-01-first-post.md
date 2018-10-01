@@ -1,5 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+title: "Vue.js의 Component 개발방식"
+date: 2018-10-01
 categories: jekyll update
 ---
+Vue 컴포넌트
+
